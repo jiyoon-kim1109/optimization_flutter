@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = optimization_flutter_pull_test
-build_property.ProjectDir = C:\gitProjects\optimization_flutter_pull_test\
+build_property.ProjectDir = c:\gitProjects\optimization_flutter_pull_test\
