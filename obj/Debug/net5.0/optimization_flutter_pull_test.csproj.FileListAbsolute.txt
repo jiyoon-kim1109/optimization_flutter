@@ -1,0 +1,16 @@
+C:\gitProjects\optimization_flutter_pull_test\bin\Debug\net5.0\optimization_flutter_pull_test.exe
+C:\gitProjects\optimization_flutter_pull_test\bin\Debug\net5.0\optimization_flutter_pull_test.deps.json
+C:\gitProjects\optimization_flutter_pull_test\bin\Debug\net5.0\optimization_flutter_pull_test.runtimeconfig.json
+C:\gitProjects\optimization_flutter_pull_test\bin\Debug\net5.0\optimization_flutter_pull_test.runtimeconfig.dev.json
+C:\gitProjects\optimization_flutter_pull_test\bin\Debug\net5.0\optimization_flutter_pull_test.dll
+C:\gitProjects\optimization_flutter_pull_test\bin\Debug\net5.0\ref\optimization_flutter_pull_test.dll
+C:\gitProjects\optimization_flutter_pull_test\bin\Debug\net5.0\optimization_flutter_pull_test.pdb
+C:\gitProjects\optimization_flutter_pull_test\obj\Debug\net5.0\optimization_flutter_pull_test.csproj.AssemblyReference.cache
+C:\gitProjects\optimization_flutter_pull_test\obj\Debug\net5.0\optimization_flutter_pull_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\gitProjects\optimization_flutter_pull_test\obj\Debug\net5.0\optimization_flutter_pull_test.AssemblyInfoInputs.cache
+C:\gitProjects\optimization_flutter_pull_test\obj\Debug\net5.0\optimization_flutter_pull_test.AssemblyInfo.cs
+C:\gitProjects\optimization_flutter_pull_test\obj\Debug\net5.0\optimization_flutter_pull_test.csproj.CoreCompileInputs.cache
+C:\gitProjects\optimization_flutter_pull_test\obj\Debug\net5.0\optimization_flutter_pull_test.dll
+C:\gitProjects\optimization_flutter_pull_test\obj\Debug\net5.0\ref\optimization_flutter_pull_test.dll
+C:\gitProjects\optimization_flutter_pull_test\obj\Debug\net5.0\optimization_flutter_pull_test.pdb
+C:\gitProjects\optimization_flutter_pull_test\obj\Debug\net5.0\optimization_flutter_pull_test.genruntimeconfig.cache
